@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Momohsani, you are really blessed and you can do it. Keep at it.
+            Momohsani, Thank God in all things, you are really blessed and you can do it. Keep at it.
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
