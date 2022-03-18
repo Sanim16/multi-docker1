@@ -19,6 +19,7 @@ function App() {
           >
             Momohsani, Thank God in all things, you are really blessed and you can do it. Keep at it.
           </a>
+          <a href="https://msthedeveloper.com">Momoh Sani</a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
